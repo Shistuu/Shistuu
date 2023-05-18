@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Leapfrog Technology [as a Software Developer Intern](shistuu.github.io)
+- 🔭 I’m currently working on Leapfrog Technology as a Software Developer Intern!
 
-- 🌱 I’m currently learning *Javascript, React.*
+- 🌱 I’m currently learning *Designing Skills, Basic Frontend, Javascript, React*
 
 - 🤝 I’m looking for help with *JavaScript, React*
 
 - 📫 How to reach me *shistatasubedi7@gmail.com*
+
+- 💻 Find my current works on *shistuu.github.io*
 
 - ⚡ Fun fact *I can sleep at anytime of the day if I want to!*
 
