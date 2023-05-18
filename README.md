@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *shistatasubedi7@gmail.com*
 
-- 💻 Find my current works on *shistuu.github.io*
+- 💻 Find my current works on [shistuu.github.io](shistuu.github.io)
 
 - ⚡ Fun fact *I can sleep at anytime of the day if I want to!*
 
