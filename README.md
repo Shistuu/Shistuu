@@ -7,23 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Leapfrog Technology as a Software Developer Intern!
+- 🔭 I’m currently a Ph.D. student at University of Oregon! 🦆
 
-- 🌱 I’m currently learning *Designing Skills, Basic Frontend, Javascript, React*
+- 🌱 I’m currently researching *Explainable AI, Networks, Security, AI*
 
-- 🤝 I’m looking for help with *JavaScript, React*
+- 📫 How to reach me *shistatasubedi24@gmail.com*
 
-- 📫 How to reach me *shistatasubedi7@gmail.com*
+- 💻 Find my portfolio on [shistuu.github.io](https://github.com/Shistuu/shistuu.github.io)
 
-- 💻 Find my current works on [shistuu.github.io](https://github.com/Shistuu/shistuu.github.io)
-
-- ⚡ Fun fact *I can sleep at anytime of the day if I want to!*
+- ⚡ Fun fact *I can sleep at any time of the day if I want to!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shistatasubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shistatasubedi" height="30" width="40" /></a>
-<a href="https://fb.com/shistata.subedi.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shistata.subedi.3" height="30" width="40" /></a>
-<a href="https://instagram.com/shistuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shistuu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shistuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shistuu" height="30" width="40" /></a>
 </p>
 
