@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a graduate student at the University of Oregon! 🦆
 
-- 🌱 I’m currently researching *Explainable AI, Networks, Security, AI*
+- 🌱 I’m currently researching *Blockchains, Distributed System, Network, Cryptography*
 
 - 📫 How to reach me *shistatasubedi24@gmail.com*
 
