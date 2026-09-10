@@ -1,33 +1,115 @@
-![MasterHead](./Header.gif)
-<h1 align="center">Hi 👋, I'm Shistata</h1>
-<h3 align="center">A passionate software developer.</h3>
+<img src="./Header.png" width="100%" alt="Shistata Subedi" />
+<div align="center">
 
-<img src=./code.gif alt="Coding" style=width:400px align=right>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shistuu&label=Profile%20views&color=0e75b6&style=flat" alt="shistuu" /> </p>
+**systems researcher · software engineer**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br>
 
-- 🔭 I’m currently a graduate student at the University of Oregon! 🦆
+[Website](https://shistuu.github.io/) ·
+[LinkedIn](https://linkedin.com/in/shistatasubedi) ·
+[LeetCode](https://leetcode.com/shistuu) ·
+[Email](mailto:shistatasubedi24@gmail.com)
 
-- 🌱 I’m currently researching *Blockchains, Distributed System, Network, Cryptography*
+</div>
 
-- 📫 How to reach me *shistatasubedi24@gmail.com*
+---
 
-- 💻 Find my portfolio on [shistuu.github.io](https://github.com/Shistuu/shistuu.github.io)
+### Hey there 👋
 
-- ⚡ Fun fact *I can sleep at any time of the day if I want to!*
+I'm **Shistata**. I'm currently at the **University of Oregon**, where I spend most of my time thinking about **distributed systems, storage, networks, blockchains, and applied cryptography**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shistatasubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shistatasubedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shistuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shistuu" height="30" width="40" /></a>
-</p>
+I especially like problems where the answer isn't just an algorithm on paper. I want to know what happens when you actually build it, run it, break it, measure it, and try it at a scale where the ugly parts start showing up.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+Before getting into research, I worked as a software engineer, so I still enjoy building normal software just as much as disappearing into low-level systems code.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shistuu&show_icons=true&locale=en&layout=compact" alt="shistuu" /></p>
+Some days that means Rust and C++.  
+Some days it's Go and Linux.  
+And sometimes I am perfectly happy building something with TypeScript, React, and Node.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shistuu&show_icons=true&locale=en" alt="shistuu" /></p>
+I don't really want to pick one side of the **researcher vs. engineer** distinction.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shistuu&" alt="shistuu" /></p>
+I like both.
+
+---
+
+### Things I keep coming back to
+
+`distributed systems` &nbsp; `systems` &nbsp; `networking` &nbsp; `storage`
+
+`cryptography` &nbsp; `blockchains` &nbsp; `performance` &nbsp; `data structures`
+
+A recurring theme in the things I work on is:
+
+> **How do we keep strong guarantees without making the underlying system painfully expensive?**
+
+I like questions where answering that properly means jumping between theory, implementation, experiments, and occasionally staring at logs for much longer than I would like to admit.
+
+---
+
+### What I build with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,go,cpp,c,python,ts,js,react,nodejs,java&perline=10" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb&perline=8" />
+
+</div>
+
+<br>
+
+I've worked across quite a few languages and frameworks over the years, but these days I care less about collecting technologies and more about being able to move between layers when a problem requires it.
+
+Frontend, backend, distributed protocol, cryptographic primitive, network path, OS behavior — whatever is hiding the interesting bug.
+
+---
+
+### Research + engineering
+
+I enjoy taking an idea through the whole lifecycle:
+
+<div align="center">
+
+**question → design → build → benchmark → break → understand → improve**
+
+</div>
+
+That last part matters to me.
+
+A benchmark saying something is slow is useful.
+
+Understanding **why** it is slow is much more interesting.
+
+---
+
+### Outside the terminal
+
+I spend enough time around computers that I make a point of doing things that have absolutely nothing to do with them.
+
+I like **sports, lifting, being outdoors, traveling, and learning random things that have nothing to do with my research**.
+
+I also maintain the extremely useful ability to fall asleep almost anywhere, at almost any time.
+
+---
+
+### A little GitHub data
+
+<div align="center">
+
+<img src="./assets/github-stats.svg" height="165" alt="Shistata's GitHub stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always happy to meet interesting people working on interesting problems.
+
+**[shistuu.github.io](https://shistuu.github.io/)**
+
+<sub>currently somewhere between an idea, running an experiment, a bug, or most likely drinking tea</sub>
+
+</div>
