@@ -94,11 +94,15 @@ I also maintain the extremely useful ability to fall asleep almost anywhere, at 
 
 ---
 
-### A little GitHub data
+### GitHub, lately
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" height="165" alt="Shistata's GitHub stats" />
+<img
+  src="./assets/github-dashboard.svg"
+  width="100%"
+  alt="Shistata's GitHub activity dashboard"
+/>
 
 </div>
 

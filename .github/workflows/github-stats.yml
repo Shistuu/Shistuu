@@ -1,4 +1,4 @@
-name: Update GitHub stats
+name: Update GitHub dashboard
 
 on:
   workflow_dispatch:
@@ -7,31 +7,28 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout profile repository
+      - name: Checkout profile
         uses: actions/checkout@v4
 
-      - name: Generate GitHub stats
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=Shistuu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github
-          path: assets/github-stats.svg
-          token: ${{ secrets.GH_STATS_TOKEN }}
+      - name: Generate dashboard
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: python3 scripts/generate_github_dashboard.py
 
-      - name: Commit stats
+      - name: Commit dashboard
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
 
-          git add assets/github-stats.svg
+          git add assets/github-dashboard.svg
 
           if git diff --cached --quiet; then
-            echo "No stats changes."
+            echo "Dashboard already up to date."
           else
-            git commit -m "Update GitHub stats"
+            git commit -m "Update GitHub dashboard"
             git push
           fi
