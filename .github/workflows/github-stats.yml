@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=Shistuu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github
           path: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit stats
         run: |
